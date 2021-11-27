@@ -1,0 +1,9 @@
+D:\Documents\.net\baitapnet01\baitapnet01\bin\Debug\baitapnet01.exe.config
+D:\Documents\.net\baitapnet01\baitapnet01\bin\Debug\baitapnet01.exe
+D:\Documents\.net\baitapnet01\baitapnet01\bin\Debug\baitapnet01.pdb
+D:\Documents\.net\baitapnet01\baitapnet01\obj\Debug\baitapnet01.csprojAssemblyReference.cache
+D:\Documents\.net\baitapnet01\baitapnet01\obj\Debug\baitapnet01.Properties.Resources.resources
+D:\Documents\.net\baitapnet01\baitapnet01\obj\Debug\baitapnet01.csproj.GenerateResource.cache
+D:\Documents\.net\baitapnet01\baitapnet01\obj\Debug\baitapnet01.csproj.CoreCompileInputs.cache
+D:\Documents\.net\baitapnet01\baitapnet01\obj\Debug\baitapnet01.exe
+D:\Documents\.net\baitapnet01\baitapnet01\obj\Debug\baitapnet01.pdb
